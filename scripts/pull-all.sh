@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-LANGUAGE="japanese"
+LANGUAGE="english"
 VEGA_DATA=data/$LANGUAGE
 
 if [ -d "$VEGA_DATA" ]; then
